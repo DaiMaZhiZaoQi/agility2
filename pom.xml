@@ -6,9 +6,9 @@
   <packaging>pom</packaging>
   <name>agility</name>
   <description>敏捷开发框架</description>
-  <modules>
+ <!--  <modules>
   	<module>agility-common</module>
-  </modules>
+  </modules> -->
   
   <build>
   	<plugins>
